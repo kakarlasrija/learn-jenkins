@@ -9,5 +9,4 @@ public class JenkinProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinProjectApplication.class, args);
 	}
-
 }

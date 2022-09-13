@@ -11,4 +11,5 @@ public class greetingController {
         System.out.println("let's say hi to jenkins");
         return "jenkins build maven project successfully";
     }
+    
 }
