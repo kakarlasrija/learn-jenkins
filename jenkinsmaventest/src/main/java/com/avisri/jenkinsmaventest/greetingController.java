@@ -8,6 +8,7 @@ public class greetingController {
 
     @RequestMapping("/check")
     public String name() {
+        System.out.println("check the application");
         System.out.println("Testing the application");
         return "Success";
     }
